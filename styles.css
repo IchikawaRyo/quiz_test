@@ -1,0 +1,49 @@
+body {
+    background-color: #dde2e3;
+}
+
+.question {
+    background-color: #3c455c;
+    color: #dde2e3;
+    width: 1000px;
+    height: 80px;
+    margin: 100px auto 20px;
+    line-height: 80px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.btn-area {
+    width: 800px;
+    background-color: #9aacb8;
+    margin: 100px auto 0;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.btn {
+    display: inline-block;
+    height: 50px;
+    background-color: #9aacb8;
+    text-align: center;
+    font-size: 15px;
+    color: #dde2e3;
+    margin: 20px 10px;
+    border-radius: 8px;
+    border: 2px solid #9aacb8;
+    outline: none;
+}
+
+.btn:hover {
+    background-color: #dde2e3;
+    color: #9aacb8;
+}
+
+.reason {
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: center;
+    color: #323339;
+}
+
