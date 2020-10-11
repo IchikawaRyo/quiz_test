@@ -35,11 +35,6 @@ body {
     outline: none;
 }
 
-.btn:hover {
-    background-color: #dde2e3;
-    color: #9aacb8;
-}
-
 .reason {
     font-size: 20px;
     margin-top: 50px;
